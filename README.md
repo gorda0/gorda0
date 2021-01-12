@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Douglas Guimarães</h1>
-<h3 align="center">A passionate developer from São Paulo, Brazil.</h3>
+<h3 align="center">A caiçara developer from São Paulo, Brazil.</h3>
 
 - 🔭 I’m currently working on **Homeguru App**
 
