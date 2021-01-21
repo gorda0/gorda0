@@ -1,8 +1,6 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=gorda0.gorda0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gorda0.gorda0) [![Github](https://img.shields.io/github/followers/gorda0?label=Follow&style=social)](https://github.com/gorda0)
 <h1 align="center">Hi, I'm Douglas Guimarães</h1>
 <h3 align="center">A caiçara developer living in São Paulo, Brazil.</h3>
-
-- 🔭 I’m currently working on **Homeguru App**
 
 - 💬 Ask me about **React, React Native, Node, Google Cloud.**
 
