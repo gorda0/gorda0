@@ -1,3 +1,4 @@
+![visitors](https://visitor-badge.glitch.me/badge?page_id=gorda0.gorda0)
 <h1 align="center">Hi, I'm Douglas Guimarães</h1>
 <h3 align="center">A caiçara developer living in São Paulo, Brazil.</h3>
 
