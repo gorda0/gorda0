@@ -2,7 +2,7 @@
 <h1 align="center">Hi, I'm Douglas Guimarães</h1>
 <h3 align="center">A caiçara developer living in São Paulo, Brazil.</h3>
 
-- 💬 Ask me about **React, React Native, Node, Google Cloud.**
+- 💬 Ask me about **React, React Native, Node, Google Cloud and some C code.**
 
 - 📫 How to reach me **eu@devdouglas.com**
 
