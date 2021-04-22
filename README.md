@@ -1,6 +1,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=gorda0.gorda0) [![Github](https://img.shields.io/github/followers/gorda0?label=Follow&style=social)](https://github.com/gorda0)
-<h1 align="center">Hi, I'm Douglas Guimarães</h1>
-
 - 💬 Ask me about **React, React Native, Node, Google Cloud and some C code.**
 
 - 📫 How to reach me **eu@devdouglas.com**
