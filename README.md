@@ -3,8 +3,5 @@
 </p>
 
 <p align="left">
- 
-💬 Ask me about **Node, Python, Ruby, DevOps and some C code.**
-
 📫 How to reach me **eu@devdouglas.com**
 </p>
